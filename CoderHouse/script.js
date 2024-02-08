@@ -86,3 +86,5 @@ let num2 = prompt('Digite outro número:')
 
 console.log(parseInt(num1) + parseInt(num2))
 alert('A soma dos dois numeros é: ' + somar)
+
+console.log('Gabriel é lindo')
